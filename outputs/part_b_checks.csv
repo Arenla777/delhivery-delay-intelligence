@@ -1,0 +1,7 @@
+check,value
+train_rows,840.0
+validation_rows,180.0
+test_rows,180.0
+train_scaled_max_abs_mean,1.4390605109665124e-15
+validation_scaled_max_abs_mean,0.13148633082383607
+test_scaled_max_abs_mean,0.21868855040610002
